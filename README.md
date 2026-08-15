@@ -220,6 +220,7 @@ Persistent memory for coding assistants (Claude Code, Copilot, Cursor) and agent
 | [claude-mem](https://github.com/thedotmack/claude-mem) | mid | Cross-session context for coding agents | TS |
 | [Engram](https://github.com/Gentleman-Programming/engram) | mid | Agent-agnostic persistent memory (Go, SQLite FTS5, MCP) | Go |
 | [BaseAI](https://github.com/LangbaseInc/baseai) | mid | Serverless agent framework with vector memory primitive | TS |
+| [LWC (Local Wiki CLI)](https://github.com/JanYork/llm-wiki-cli) | ~30 | Local-first source-grounded project memory with citations/provenance, bounded read-only MCP retrieval, atomic changesets, and optional document/code graphs (Apache-2.0) | TS |
 | [mem-agent](https://huggingface.co/driaforall/mem-agent) | model | 4B model fine-tuned for memory ops over markdown files | weights |
 
 ---
