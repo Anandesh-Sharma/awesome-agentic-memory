@@ -219,6 +219,7 @@ Persistent memory for coding assistants (Claude Code, Copilot, Cursor) and agent
 | [ByteRover / Cipher](https://github.com/campfirein/cipher) | ~5k | Portable memory layer for coding agents (MCP) | TS |
 | [claude-mem](https://github.com/thedotmack/claude-mem) | mid | Cross-session context for coding agents | TS |
 | [Engram](https://github.com/Gentleman-Programming/engram) | mid | Agent-agnostic persistent memory (Go, SQLite FTS5, MCP) | Go |
+| [ContextStream](https://github.com/contextstream/mcp-server) | ~43 | Shared project context for AI coding agents (hosted MCP + OSS) | TS |
 | [BaseAI](https://github.com/LangbaseInc/baseai) | mid | Serverless agent framework with vector memory primitive | TS |
 | [mem-agent](https://huggingface.co/driaforall/mem-agent) | model | 4B model fine-tuned for memory ops over markdown files | weights |
 
@@ -249,6 +250,7 @@ The dimensions that actually differentiate memory systems. Use these as your eva
 | [Mem0 Platform](https://mem0.ai/) | Managed memory layer (also OSS); large token-cost reduction claims; broad integrations + OpenMemory MCP server |
 | [Zep Cloud](https://www.getzep.com/) | Managed temporal-KG memory for enterprise-scale agents |
 | [Letta Cloud](https://www.letta.com/) | Managed MemGPT-style stateful agents (core/recall/archival) |
+| [ContextStream](https://contextstream.io) | Hosted shared project context for AI coding agents via MCP (code search + decisions/lessons/plans) |
 | [LangMem SDK](https://www.langchain.com/langmem) | Long-term memory over the LangGraph store (Postgres/MongoDB backends) |
 | [ChatGPT Memory](https://help.openai.com/en/articles/8590148-memory-faq) | Consumer persistent memory — saved memories + chat history, background "dreaming" update |
 | [Anthropic Memory Tool](https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents) | File-based memory tool on the Claude Developer Platform for cross-session state |
