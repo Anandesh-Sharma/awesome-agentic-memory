@@ -252,6 +252,7 @@ The dimensions that actually differentiate memory systems. Use these as your eva
 | [LangMem SDK](https://www.langchain.com/langmem) | Long-term memory over the LangGraph store (Postgres/MongoDB backends) |
 | [ChatGPT Memory](https://help.openai.com/en/articles/8590148-memory-faq) | Consumer persistent memory — saved memories + chat history, background "dreaming" update |
 | [Anthropic Memory Tool](https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents) | File-based memory tool on the Claude Developer Platform for cross-session state |
+| [Screenpipe](https://github.com/screenpipe/screenpipe) | Source-available screen/audio history for agent recall through a local REST API and MCP; raw history is local by default, configured cloud services can transmit context off-device; Rust/TypeScript, [Screenpipe Commercial License](https://github.com/screenpipe/screenpipe/blob/main/LICENSE.md) |
 
 ---
 
