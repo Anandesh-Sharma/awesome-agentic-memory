@@ -317,6 +317,7 @@ The dimensions that actually differentiate memory systems. Use these as your eva
 
 | Benchmark | Year | Measures | Size | Links |
 |---|---|---|---|---|
+| **EmbodiedMemory-Bench** | 2026 (preprint) | Visual recall, dynamic state tracking, interaction outcomes, and experience generalization through embodied actions | 2,554 interactive episodes | [paper](https://arxiv.org/abs/2609.28236) · [code](https://github.com/ZJU-OmniAI/Embodied-Omni/tree/main/embodied_memory) · [data](https://huggingface.co/datasets/lzLiang/EmbodiedMemoryBench) |
 | **LoCoMo** | 2024 | Very long conversational memory: single/multi-hop QA, temporal reasoning, event summarization, multimodal gen | 10 convos, ~300 turns, ~1.5K QA | [paper](https://arxiv.org/abs/2402.17753) · [site](https://snap-research.github.io/locomo/) · [data](https://github.com/snap-research/locomo) |
 | **LongMemEval** | 2024 (ICLR 2025) | 5 abilities: extraction, multi-session, temporal, knowledge updates, abstention | 500 curated Qs, scalable history | [paper](https://arxiv.org/abs/2410.10813) · [site](https://xiaowu0162.github.io/long-mem-eval/) · [code](https://github.com/xiaowu0162/LongMemEval) |
 | **BEAM** | 2025/26 | Memory at **1M–10M tokens**, 10 categories; unsolvable by bigger context | 1M & 10M scale | [explainer](https://mem0.ai/blog/what-is-beam-memory-benchmark-the-paper-that-shows-1m-context-window-isnt-enough) |
