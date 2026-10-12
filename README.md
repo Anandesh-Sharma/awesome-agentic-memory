@@ -221,6 +221,7 @@ Persistent memory for coding assistants (Claude Code, Copilot, Cursor) and agent
 | [Engram](https://github.com/Gentleman-Programming/engram) | mid | Agent-agnostic persistent memory (Go, SQLite FTS5, MCP) | Go |
 | [BaseAI](https://github.com/LangbaseInc/baseai) | mid | Serverless agent framework with vector memory primitive | TS |
 | [mem-agent](https://huggingface.co/driaforall/mem-agent) | model | 4B model fine-tuned for memory ops over markdown files | weights |
+| [TOMC Memory](https://github.com/ZipengWu365/TOMC) | 7 | Explicitly saves task notes in SQLite and recalls task-specific context within a token budget on CPU; local MCP for Claude Code/Codex and a Python API (MIT; research preview) | Python |
 
 ---
 
