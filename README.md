@@ -221,6 +221,7 @@ Persistent memory for coding assistants (Claude Code, Copilot, Cursor) and agent
 | [Engram](https://github.com/Gentleman-Programming/engram) | mid | Agent-agnostic persistent memory (Go, SQLite FTS5, MCP) | Go |
 | [BaseAI](https://github.com/LangbaseInc/baseai) | mid | Serverless agent framework with vector memory primitive | TS |
 | [mem-agent](https://huggingface.co/driaforall/mem-agent) | model | 4B model fine-tuned for memory ops over markdown files | weights |
+| [SoloPup Memory](https://github.com/OakcoderX/solopup-memory) | 0 | Source-linked text memory for DeepSeek Harness with scoped review and revision history; MIT, public beta | JavaScript |
 
 ---
 
